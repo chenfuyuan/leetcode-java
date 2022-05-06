@@ -1,11 +1,7 @@
 package com.learn.project.leetcode.array;
 
-import sun.security.util.ArrayUtil;
 
-import javax.annotation.Resource;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 /**
